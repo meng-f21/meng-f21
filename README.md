@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meng-f21
-- 👀 I’m interested in CV
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in RL
+- 🌱 I’m currently learning Medical Robotic
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
