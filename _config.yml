@@ -1,7 +1,7 @@
 # Site settings
 title: Meng Fei
-baseurl: "/cv"
-url: "https://meng-f21.github.io/cv"
+baseurl: "/meng-f21"
+url: "https://meng-f21.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
